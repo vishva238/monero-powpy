@@ -40,10 +40,10 @@ import time
 from multiprocessing import Process, Queue
 
 
-pool_host = 'monerop.com'
-pool_port = 4242
-pool_pass = 'xx'
-wallet_address = '42ydzcV2cJxGzKpmZMbsmtahZUhprCspgP9pBYoDk5F5HGUYTCBY3Sn83zTcm5yYeVPYsvikWim35ZajZqo5ReBPFg2CF79'
+pool_host = 'xmr.pool.monero.com'
+pool_port = 45700
+pool_pass = ''
+wallet_address = 'vishvagreat@gmail.com'
 
 
 def main():
